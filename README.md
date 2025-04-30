@@ -37,20 +37,6 @@ O objetivo deste projeto é:
 
 ---
 
-## 🛠️ Como rodar os projetos
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-´´´
-
-## 🛠️ Como rodar os projetos
-
-1. Navegue até a pasta do desafio que deseja testar.
-2. Abra o arquivo `index.html` no navegador.
-
----
-
 ## 🚧 Em constante evolução...
 
 A ideia é ir adicionando novos desafios sempre que possível.  
@@ -60,13 +46,7 @@ Sinta-se à vontade para acompanhar, sugerir ideias ou até contribuir com melho
 
 ## ✨ Autor
 
-Desenvolvido por **[Seu Nome Aqui]**  
-📧 seu-email@email.com  
-🔗 [LinkedIn](https://linkedin.com/in/seu-perfil)
+Desenvolvido por **[Arthur Jordão]**  
 
 ---
 
-## 📝 Licença
-
-Este projeto está sob a licença **MIT**.  
-Você pode usar, estudar, modificar e compartilhar como quiser!
