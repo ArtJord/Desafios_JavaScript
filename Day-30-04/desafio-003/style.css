@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    background-color: #ffffff;
+    transition: background-color 0.4s;
+  }
+  
+  button {
+    padding: 12px 24px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  #corAtual {
+    margin-top: 20px;
+    font-size: 20px;
+  }
+  
